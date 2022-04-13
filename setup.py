@@ -7,7 +7,7 @@ from setuptools import setup
 
 assert sys.version_info >= (3, 7, 0), "PySINDy requires Python 3.7+"
 
-NAME = "pysindy"
+NAME = "pysindytest"
 DESCRIPTION = "Sparse Identification of Nonlinear Dynamics"
 URL = "https://github.com/dynamicslab/pysindy"
 EMAIL = "bdesilva@uw.edu, kpchamp@uw.edu, info@markusqua.de, akaptano@uw.edu"
