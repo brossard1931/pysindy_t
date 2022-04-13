@@ -20,4 +20,5 @@ __all__ = [
     "PDELibrary",
     "WeakPDELibrary",
     "SINDyPILibrary",
+    "MyPDELibrary"
 ]
