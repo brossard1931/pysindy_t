@@ -162,6 +162,7 @@ class PDELibrary(BaseFeatureLibrary):
         self.num_derivatives = num_derivatives
         self.multiindices = multiindices
         self.spatial_grid = spatial_grid
+        print('test')
 
     @staticmethod
     def _combinations(n_features, n_args, interaction_only):
