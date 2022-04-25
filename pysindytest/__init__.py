@@ -25,6 +25,7 @@ from .feature_library import FourierLibrary
 from .feature_library import IdentityLibrary
 from .feature_library import PolynomialLibrary
 from .feature_library import PDELibrary
+from .feature_library import MyPDELibrary
 from .feature_library import WeakPDELibrary
 from .feature_library import SINDyPILibrary
 from .optimizers import BaseOptimizer
